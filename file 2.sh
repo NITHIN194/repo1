@@ -1,4 +1,4 @@
 #!\bin\bash
-read a b
-sub=`expr $a -$b`
+read a c
+sub=`expr $a -$c`
 echo $sub
